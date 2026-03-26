@@ -1,2 +1,1 @@
-# Article.DataLibrary.Python.GoldVolatility
-Learn how to measure historical and implied gold volatility using XAUFIX=, gold option volatility RICs with the LSEG Data Library for Python.
+Full article can be found at [How to Measure Gold Volatility Using the LSEG Data Library](https://developers.lseg.com/en/article-catalog/article/how-to-measure-gold-volatility-using-the-lseg-data-library)
